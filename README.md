@@ -10,4 +10,8 @@ Silver Nanowire sensor Robot teleoperation and AR
 
 **calib:** calibration data. Contains both old and newer data in csv files. Also uploaded to Google drive folder and used in Google Colab to plot the graphs.
 
-**turtlebot_teleop**: teleoperate the turtlebot burger 3 using the teleop_key node.  
+**turtlebot3_bringup:** bringup the turtlebot to establish a connection between the computer and robot. Set it up for work basically.
+
+**turtlebot_teleop**: teleoperate the turtlebot burger 3 using the teleop_key node. (We modified the code for our purposes).
+
+**turtlebot3_slam**: SLAM for turtlebot. Standard package.
