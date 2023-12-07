@@ -8,4 +8,6 @@ Silver Nanowire sensor Robot teleoperation and AR
 
 **calibration:** code that we used to do calibration with the manipulator. The code is more or less the same, execpt that only one value is published in ROS.
 
+**calib:** calibration data. Contains both old and newer data in csv files. Also uploaded to Google drive folder and used in Google Colab to plot the graphs.
+
 **turtlebot_teleop**: teleoperate the turtlebot burger 3 using the teleop_key node.  
