@@ -15,3 +15,5 @@ Silver Nanowire sensor Robot teleoperation and AR
 **turtlebot_teleop**: teleoperate the turtlebot burger 3 using the teleop_key node. (We modified the code for our purposes).
 
 **turtlebot3_slam**: SLAM for turtlebot. Standard package.
+
+Setup Arduino for ROS: https://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup
